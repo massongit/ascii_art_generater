@@ -11,5 +11,6 @@ jupyter = "*"
 pillow = "*"
 numpy = "*"
 emoji = "*"
+zenhan = "*"
 
 [dev-packages]
