@@ -250,3 +250,4 @@ Temporary Items
 ### 本プロジェクト独自
 *.jpg
 *.png
+.idea/misc.xml
