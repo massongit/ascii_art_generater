@@ -4,11 +4,11 @@ name = "pypi"
 url = "https://pypi.org/simple"
 
 [requires]
-python_version = "3.5"
+python_version = "3.6"
 
 [packages]
 jupyter = "*"
-pillow = "*"
+pillow = ">=6.2.2"
 numpy = "*"
 emoji = "*"
 zenhan = "*"
