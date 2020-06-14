@@ -1,5 +1,5 @@
 # ascii_art_generator
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE) [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=massongit/ascii_art_generater)](https://dependabot.com)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 ## 概要
 画像をアスキーアート化するプログラムです。
